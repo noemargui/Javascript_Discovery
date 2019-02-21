@@ -16,6 +16,6 @@
  4. Dans le fichier `index.html`, change le fichier script.js appelé (de 1 à 7)
  5. Ouvre l'oeil sur les messages de console
 
-*Gainsbourgment vôtre.*
+***Gainsbourgment vôtre.***
 
 Noé
