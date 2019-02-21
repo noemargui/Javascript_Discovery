@@ -1,10 +1,10 @@
 # La Javanaise 🚬
 
 
-> J'avoue j'en ai bavé pas vous mon amour
-> Avant d'avoir eu vent de vous mon amour
-> Ne vous déplaise
-> En dansant la Javanaise
+> J'avoue j'en ai bavé pas vous mon amour <br>
+> Avant d'avoir eu vent de vous mon amour <br>
+> Ne vous déplaise <br>
+> En dansant la Javanaise <br>
 
 ![Alt text](la_javascriptnaise.jpg?raw=true "La Javascriptnaise")
 
