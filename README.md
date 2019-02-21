@@ -1,11 +1,9 @@
 # La Javanaise 🚬
 
+
 > J'avoue j'en ai bavé pas vous mon amour
-
 > Avant d'avoir eu vent de vous mon amour
-
 > Ne vous déplaise
-
 > En dansant la Javanaise
 
 ![Alt text](la_javascriptnaise.jpg?raw=true "La Javascriptnaise")
